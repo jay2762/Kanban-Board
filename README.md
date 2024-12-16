@@ -1,3 +1,9 @@
+This is how the Kanban Board Looks like
+<img width="1710" alt="Screenshot 2024-12-15 at 6 14 01 PM" src="https://github.com/user-attachments/assets/0dabe61d-b322-4421-92a8-2f5af32c0992" />
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
